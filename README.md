@@ -29,4 +29,4 @@ Complete the implementation of the `HTTPRequest` class using the Builder pattern
 5. Handle different content types appropriately
 6. Implement proper input validation
 
-Fix the broken/incomplete implementation in `src/main/java/com/example/HTTPRequest.java` and make all tests pass.
+Fix the broken/incomplete implementation in `src/main/java/edu/kau/fcit/cpit252/HTTPRequest.java` and make all tests pass.
